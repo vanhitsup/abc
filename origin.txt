@@ -1,0 +1,492 @@
+Uri: http://netgon.net/artstyles/v-card3/about.html
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\about.html
+Content Type: text/html
+
+Uri: http://netgon.net/artstyles/v-card3/assets/img/image_header.jpg
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\img\image_header.jpg
+Content Type: image/jpeg
+
+Uri: http://netgon.net/artstyles/v-card3/assets/images/favicons/apple-touch-icon-144x144.png
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\images\favicons\apple-touch-icon-144x144.png
+Content Type: image/png
+
+Uri: http://netgon.net/artstyles/v-card3/assets/images/favicons/apple-touch-icon-114x114.png
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\images\favicons\apple-touch-icon-114x114.png
+Content Type: image/png
+
+Uri: http://netgon.net/artstyles/v-card3/assets/images/favicons/apple-touch-icon-72x72.png
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\images\favicons\apple-touch-icon-72x72.png
+Content Type: image/png
+
+Uri: http://netgon.net/artstyles/v-card3/assets/images/favicons/apple-touch-icon-57x57.png
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\images\favicons\apple-touch-icon-57x57.png
+Content Type: image/png
+
+Uri: http://netgon.net/artstyles/v-card3/assets/images/favicons/favicon.png
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\images\favicons\favicon.png
+Content Type: image/png
+
+Uri: http://netgon.net/artstyles/v-card3/assets/styles/style.css
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\styles\style.css
+Content Type: text/css
+
+Uri: http://netgon.net/artstyles/v-card3/assets/demo/style-demo.css
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\demo\style-demo.css
+Content Type: text/css
+
+Uri: http://netgon.net/artstyles/v-card3/resume.html
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\resume.html
+Content Type: text/html
+
+Uri: http://netgon.net/artstyles/v-card3/works.html
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\works.html
+Content Type: text/html
+
+Uri: http://netgon.net/artstyles/v-card3/blog.html
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\blog.html
+Content Type: text/html
+
+Uri: http://netgon.net/artstyles/v-card3/contact.html
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\contact.html
+Content Type: text/html
+
+Uri: http://netgon.net/artstyles/v-card3/rtl/about.html
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\rtl\about.html
+Content Type: text/html
+
+Uri: http://netgon.net/artstyles/v-card3/one-page.html
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\one-page.html
+Content Type: text/html
+
+Uri: http://netgon.net/artstyles/v-card3/background-2.html
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\background-2.html
+Content Type: text/html
+
+Uri: http://netgon.net/artstyles/v-card3/works_v2.html
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\works_v2.html
+Content Type: text/html
+
+Uri: http://netgon.net/artstyles/v-card3/dark/about.html
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\dark\about.html
+Content Type: text/html
+
+Uri: http://netgon.net/artstyles/v-card3/assets/img/main-photo.svg
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\img\main-photo.svg
+Content Type: image/svg+xml
+
+Uri: http://netgon.net/artstyles/v-card3/assets/icons/icon-design.svg
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\icons\icon-design.svg
+Content Type: image/svg+xml
+
+Uri: http://netgon.net/artstyles/v-card3/assets/icons/icon-dev.svg
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\icons\icon-dev.svg
+Content Type: image/svg+xml
+
+Uri: http://netgon.net/artstyles/v-card3/assets/icons/icon-app.svg
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\icons\icon-app.svg
+Content Type: image/svg+xml
+
+Uri: http://netgon.net/artstyles/v-card3/assets/icons/icon-photo.svg
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\icons\icon-photo.svg
+Content Type: image/svg+xml
+
+Uri: http://netgon.net/artstyles/v-card3/assets/img/logo-1.svg
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\img\logo-1.svg
+Content Type: image/svg+xml
+
+Uri: http://netgon.net/artstyles/v-card3/assets/img/logo-2.svg
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\img\logo-2.svg
+Content Type: image/svg+xml
+
+Uri: http://netgon.net/artstyles/v-card3/assets/img/logo-3.svg
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\img\logo-3.svg
+Content Type: image/svg+xml
+
+Uri: http://netgon.net/artstyles/v-card3/assets/img/logo-4.svg
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\img\logo-4.svg
+Content Type: image/svg+xml
+
+Uri: http://netgon.net/artstyles/v-card3/assets/js/jquery-3.4.1.min.js
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\js\jquery-3.4.1.min.js
+Content Type: application/javascript
+
+Uri: http://netgon.net/artstyles/v-card3/assets/js/plugins.min.js
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\js\plugins.min.js
+Content Type: application/javascript
+
+Uri: http://netgon.net/artstyles/v-card3/assets/js/common.js
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\js\common.js
+Content Type: application/javascript
+
+Uri: http://netgon.net/artstyles/v-card3/assets/demo/plugins-demo.js
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\demo\plugins-demo.js
+Content Type: application/javascript
+
+Uri: http://netgon.net/artstyles/v-card3/assets/styles/vendors/bootstrap.min.css
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\styles\vendors\bootstrap.min.css
+Content Type: text/css
+
+Uri: http://netgon.net/artstyles/v-card3/assets/styles/vendors/swiper.min.css
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\styles\vendors\swiper.min.css
+Content Type: text/css
+
+Uri: http://netgon.net/artstyles/v-card3/assets/icons/style.css
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\icons\style.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,600;1,400;1,500;1,600&display=swap
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\css2.css
+Content Type: text/css
+
+Uri: http://netgon.net/artstyles/v-card3/assets/images/triangles-top.svg
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\images\triangles-top.svg
+Content Type: image/svg+xml
+
+Uri: http://netgon.net/artstyles/v-card3/assets/images/triangles-bottom.svg
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\images\triangles-bottom.svg
+Content Type: image/svg+xml
+
+Uri: http://netgon.net/artstyles/v-card3/assets/icons/icon-quote.svg
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\icons\icon-quote.svg
+Content Type: image/svg+xml
+
+Uri: http://netgon.net/artstyles/v-card3/assets/images/icon-map-pic.svg
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\images\icon-map-pic.svg
+Content Type: image/svg+xml
+
+Uri: http://netgon.net/artstyles/v-card3/assets/icons/icon-news.svg
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\icons\icon-news.svg
+Content Type: image/svg+xml
+
+Uri: http://netgon.net/artstyles/v-card3/assets/demo/iconSideMenu.svg
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\demo\iconSideMenu.svg
+Content Type: image/svg+xml
+
+Uri: http://netgon.net/artstyles/v-card3/assets/demo/iconClose.svg
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\demo\iconClose.svg
+Content Type: image/svg+xml
+
+Uri: http://netgon.net/artstyles/v-card3/assets/icons/icon-education.svg
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\icons\icon-education.svg
+Content Type: image/svg+xml
+
+Uri: http://netgon.net/artstyles/v-card3/assets/icons/icon-experience.svg
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\icons\icon-experience.svg
+Content Type: image/svg+xml
+
+Uri: http://netgon.net/artstyles/v-card3/assets/img/image_01.jpg
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\img\image_01.jpg
+Content Type: image/jpeg
+
+Uri: http://netgon.net/artstyles/v-card3/assets/img/image_02.jpg
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\img\image_02.jpg
+Content Type: image/jpeg
+
+Uri: http://netgon.net/artstyles/v-card3/assets/img/image_03.jpg
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\img\image_03.jpg
+Content Type: image/jpeg
+
+Uri: http://netgon.net/artstyles/v-card3/assets/img/image_04.jpg
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\img\image_04.jpg
+Content Type: image/jpeg
+
+Uri: http://netgon.net/artstyles/v-card3/assets/img/image_05.jpg
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\img\image_05.jpg
+Content Type: image/jpeg
+
+Uri: http://netgon.net/artstyles/v-card3/assets/img/image_06.jpg
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\img\image_06.jpg
+Content Type: image/jpeg
+
+Uri: http://netgon.net/artstyles/v-card3/assets/img/image_07.jpg
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\img\image_07.jpg
+Content Type: image/jpeg
+
+Uri: http://netgon.net/artstyles/v-card3/assets/img/image_08.jpg
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\img\image_08.jpg
+Content Type: image/jpeg
+
+Uri: http://netgon.net/artstyles/v-card3/assets/img/image_09.jpg
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\img\image_09.jpg
+Content Type: image/jpeg
+
+Uri: http://netgon.net/artstyles/v-card3/single-post.html
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\single-post.html
+Content Type: text/html
+
+Uri: http://netgon.net/artstyles/v-card3/assets/js/mapbox.init.js
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\js\mapbox.init.js
+Content Type: application/javascript
+
+Uri: http://netgon.net/artstyles/v-card3/assets/styles/style-rtl-demo.css
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\styles\style-rtl-demo.css
+Content Type: text/css
+
+Uri: http://netgon.net/artstyles/v-card3/assets/styles/style-rtl.css
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\styles\style-rtl.css
+Content Type: text/css
+
+Uri: http://netgon.net/artstyles/v-card3/rtl/resume.html
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\rtl\resume.html
+Content Type: text/html
+
+Uri: http://netgon.net/artstyles/v-card3/rtl/works.html
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\rtl\works.html
+Content Type: text/html
+
+Uri: http://netgon.net/artstyles/v-card3/rtl/blog.html
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\rtl\blog.html
+Content Type: text/html
+
+Uri: http://netgon.net/artstyles/v-card3/rtl/contact.html
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\rtl\contact.html
+Content Type: text/html
+
+Uri: http://netgon.net/artstyles/v-card3/rtl/one-page.html
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\rtl\one-page.html
+Content Type: text/html
+
+Uri: http://netgon.net/artstyles/v-card3/rtl/background-2.html
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\rtl\background-2.html
+Content Type: text/html
+
+Uri: http://netgon.net/artstyles/v-card3/rtl/works_v2.html
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\rtl\works_v2.html
+Content Type: text/html
+
+Uri: http://netgon.net/artstyles/v-card3/rtl-dark/about.html
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\rtl-dark\about.html
+Content Type: text/html
+
+Uri: http://netgon.net/artstyles/v-card3/assets/styles/style-dark.css
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\styles\style-dark.css
+Content Type: text/css
+
+Uri: http://netgon.net/artstyles/v-card3/dark/resume.html
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\dark\resume.html
+Content Type: text/html
+
+Uri: http://netgon.net/artstyles/v-card3/dark/works.html
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\dark\works.html
+Content Type: text/html
+
+Uri: http://netgon.net/artstyles/v-card3/dark/blog.html
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\dark\blog.html
+Content Type: text/html
+
+Uri: http://netgon.net/artstyles/v-card3/dark/contact.html
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\dark\contact.html
+Content Type: text/html
+
+Uri: http://netgon.net/artstyles/v-card3/dark/one-page.html
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\dark\one-page.html
+Content Type: text/html
+
+Uri: http://netgon.net/artstyles/v-card3/dark/background-2.html
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\dark\background-2.html
+Content Type: text/html
+
+Uri: http://netgon.net/artstyles/v-card3/dark/works_v2.html
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\dark\works_v2.html
+Content Type: text/html
+
+Uri: http://netgon.net/artstyles/v-card3/assets/icons/dark/icon-design.svg
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\icons\dark\icon-design.svg
+Content Type: image/svg+xml
+
+Uri: http://netgon.net/artstyles/v-card3/assets/icons/dark/icon-dev.svg
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\icons\dark\icon-dev.svg
+Content Type: image/svg+xml
+
+Uri: http://netgon.net/artstyles/v-card3/assets/icons/dark/icon-app.svg
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\icons\dark\icon-app.svg
+Content Type: image/svg+xml
+
+Uri: http://netgon.net/artstyles/v-card3/assets/icons/dark/icon-photo.svg
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\icons\dark\icon-photo.svg
+Content Type: image/svg+xml
+
+Uri: http://netgon.net/artstyles/v-card3/assets/img/logo-1-dark.svg
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\img\logo-1-dark.svg
+Content Type: image/svg+xml
+
+Uri: http://netgon.net/artstyles/v-card3/assets/img/logo-2-dark.svg
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\img\logo-2-dark.svg
+Content Type: image/svg+xml
+
+Uri: http://netgon.net/artstyles/v-card3/assets/img/logo-3-dark.svg
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\img\logo-3-dark.svg
+Content Type: image/svg+xml
+
+Uri: http://netgon.net/artstyles/v-card3/assets/img/logo-4-dark.svg
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\img\logo-4-dark.svg
+Content Type: image/svg+xml
+
+Uri: http://netgon.net/artstyles/v-card3/assets/icons/icomoon.woff
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\icons\icomoon.woff
+Content Type: font/woff
+
+Uri: http://netgon.net/artstyles/v-card3/assets/icons/icomoon.woff2
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\icons\icomoon.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v12/pxiGyp8kv8JHgFVrJJLedw.ttf
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\s\poppins\v12\pxiGyp8kv8JHgFVrJJLedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v12/pxiDyp8kv8JHgFVrJJLmg1hlEA.ttf
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\s\poppins\v12\pxiDyp8kv8JHgFVrJJLmg1hlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v12/pxiDyp8kv8JHgFVrJJLmr19lEA.ttf
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\s\poppins\v12\pxiDyp8kv8JHgFVrJJLmr19lEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v12/pxiEyp8kv8JHgFVrFJA.ttf
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\s\poppins\v12\pxiEyp8kv8JHgFVrFJA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v12/pxiByp8kv8JHgFVrLGT9V1s.ttf
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\s\poppins\v12\pxiByp8kv8JHgFVrLGT9V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v12/pxiByp8kv8JHgFVrLEj6V1s.ttf
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\s\poppins\v12\pxiByp8kv8JHgFVrLEj6V1s.ttf
+Content Type: font/ttf
+
+Uri: http://netgon.net/artstyles/v-card3/assets/img/image_10.jpg
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\img\image_10.jpg
+Content Type: image/jpeg
+
+Uri: http://netgon.net/artstyles/v-card3/assets/img/image_11.jpg
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\img\image_11.jpg
+Content Type: image/jpeg
+
+Uri: http://netgon.net/artstyles/v-card3/assets/icons/emoji/emoji-nerd.svg
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\icons\emoji\emoji-nerd.svg
+Content Type: image/svg+xml
+
+Uri: http://netgon.net/artstyles/v-card3/assets/icons/emoji/emoji-laughing.svg
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\icons\emoji\emoji-laughing.svg
+Content Type: image/svg+xml
+
+Uri: http://netgon.net/artstyles/v-card3/assets/icons/emoji/emoji-happy-2.svg
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\icons\emoji\emoji-happy-2.svg
+Content Type: image/svg+xml
+
+Uri: http://netgon.net/artstyles/v-card3/assets/icons/emoji/emoji-crazy.svg
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\icons\emoji\emoji-crazy.svg
+Content Type: image/svg+xml
+
+Uri: http://netgon.net/artstyles/v-card3/assets/icons/emoji/emoji-bad.svg
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\icons\emoji\emoji-bad.svg
+Content Type: image/svg+xml
+
+Uri: http://netgon.net/artstyles/v-card3/assets/icons/emoji/emoji-angry.svg
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\icons\emoji\emoji-angry.svg
+Content Type: image/svg+xml
+
+Uri: http://netgon.net/artstyles/v-card3/assets/icons/emoji/emoji-happy.svg
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\icons\emoji\emoji-happy.svg
+Content Type: image/svg+xml
+
+Uri: http://netgon.net/artstyles/v-card3/assets/icons/emoji/emoji-thinking.svg
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\icons\emoji\emoji-thinking.svg
+Content Type: image/svg+xml
+
+Uri: http://netgon.net/artstyles/v-card3/assets/icons/emoji/emoji-sad.svg
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\icons\emoji\emoji-sad.svg
+Content Type: image/svg+xml
+
+Uri: http://netgon.net/artstyles/v-card3/assets/icons/emoji/emoji-pressure.svg
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\icons\emoji\emoji-pressure.svg
+Content Type: image/svg+xml
+
+Uri: http://netgon.net/artstyles/v-card3/assets/icons/emoji/emoji-in-love.svg
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\icons\emoji\emoji-in-love.svg
+Content Type: image/svg+xml
+
+Uri: http://netgon.net/artstyles/v-card3/assets/icons/emoji/emoji-happy-3.svg
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\icons\emoji\emoji-happy-3.svg
+Content Type: image/svg+xml
+
+Uri: http://netgon.net/artstyles/v-card3/assets/icons/emoji/emoji-shocked.svg
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\icons\emoji\emoji-shocked.svg
+Content Type: image/svg+xml
+
+Uri: http://netgon.net/artstyles/v-card3/assets/icons/emoji/emoji-wink.svg
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\icons\emoji\emoji-wink.svg
+Content Type: image/svg+xml
+
+Uri: http://netgon.net/artstyles/v-card3/assets/icons/emoji/emoji-sweating.svg
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\icons\emoji\emoji-sweating.svg
+Content Type: image/svg+xml
+
+Uri: http://netgon.net/artstyles/v-card3/assets/icons/emoji/emoji-shocked-2.svg
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\icons\emoji\emoji-shocked-2.svg
+Content Type: image/svg+xml
+
+Uri: http://netgon.net/artstyles/v-card3/assets/icons/emoji/emoji-shocked-3.svg
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\icons\emoji\emoji-shocked-3.svg
+Content Type: image/svg+xml
+
+Uri: http://netgon.net/artstyles/v-card3/assets/icons/emoji/emoji-sad-2.svg
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\icons\emoji\emoji-sad-2.svg
+Content Type: image/svg+xml
+
+Uri: http://netgon.net/artstyles/v-card3/assets/styles/vendors/rtl/bootstrap.min.css
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\styles\vendors\rtl\bootstrap.min.css
+Content Type: text/css
+
+Uri: http://netgon.net/artstyles/v-card3/rtl/single-post.html
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\rtl\single-post.html
+Content Type: text/html
+
+Uri: http://netgon.net/artstyles/v-card3/rtl-dark/resume.html
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\rtl-dark\resume.html
+Content Type: text/html
+
+Uri: http://netgon.net/artstyles/v-card3/rtl-dark/works.html
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\rtl-dark\works.html
+Content Type: text/html
+
+Uri: http://netgon.net/artstyles/v-card3/rtl-dark/blog.html
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\rtl-dark\blog.html
+Content Type: text/html
+
+Uri: http://netgon.net/artstyles/v-card3/rtl-dark/contact.html
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\rtl-dark\contact.html
+Content Type: text/html
+
+Uri: http://netgon.net/artstyles/v-card3/rtl-dark/one-page.html
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\rtl-dark\one-page.html
+Content Type: text/html
+
+Uri: http://netgon.net/artstyles/v-card3/rtl-dark/background-2.html
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\rtl-dark\background-2.html
+Content Type: text/html
+
+Uri: http://netgon.net/artstyles/v-card3/rtl-dark/works_v2.html
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\rtl-dark\works_v2.html
+Content Type: text/html
+
+Uri: http://netgon.net/artstyles/v-card3/assets/icons/icon-quote-dark.svg
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\icons\icon-quote-dark.svg
+Content Type: image/svg+xml
+
+Uri: http://netgon.net/artstyles/v-card3/assets/icons/dark/icon-education.svg
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\icons\dark\icon-education.svg
+Content Type: image/svg+xml
+
+Uri: http://netgon.net/artstyles/v-card3/assets/icons/dark/icon-experience.svg
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\assets\icons\dark\icon-experience.svg
+Content Type: image/svg+xml
+
+Uri: http://netgon.net/artstyles/v-card3/dark/single-post.html
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\dark\single-post.html
+Content Type: text/html
+
+Uri: http://netgon.net/artstyles/v-card3/rtl-dark/single-post.html
+File Name: C:\Users\TEMP\Music\cv-artstyles\netgon.net\artstyles\v-card3\rtl-dark\single-post.html
+Content Type: text/html
+
