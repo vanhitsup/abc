@@ -2,43 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93ac1f47-236c-4687-90fd-daa10911de74" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/artstyles/v-card3/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/artstyles/v-card3/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/artstyles/v-card3/background-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/artstyles/v-card3/background-2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/artstyles/v-card3/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/artstyles/v-card3/blog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/artstyles/v-card3/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/artstyles/v-card3/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/artstyles/v-card3/dark/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/artstyles/v-card3/dark/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/artstyles/v-card3/dark/background-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/artstyles/v-card3/dark/background-2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/artstyles/v-card3/dark/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/artstyles/v-card3/dark/blog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/artstyles/v-card3/dark/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/artstyles/v-card3/dark/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/artstyles/v-card3/dark/one-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/artstyles/v-card3/dark/one-page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/artstyles/v-card3/dark/resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/artstyles/v-card3/dark/resume.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/artstyles/v-card3/dark/single-post.html" beforeDir="false" afterPath="$PROJECT_DIR$/artstyles/v-card3/dark/single-post.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/artstyles/v-card3/dark/works.html" beforeDir="false" afterPath="$PROJECT_DIR$/artstyles/v-card3/dark/works.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/artstyles/v-card3/dark/works_v2.html" beforeDir="false" afterPath="$PROJECT_DIR$/artstyles/v-card3/dark/works_v2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/artstyles/v-card3/one-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/artstyles/v-card3/one-page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/artstyles/v-card3/resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/artstyles/v-card3/resume.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/artstyles/v-card3/rtl-dark/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/artstyles/v-card3/rtl-dark/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/artstyles/v-card3/rtl-dark/background-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/artstyles/v-card3/rtl-dark/background-2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/artstyles/v-card3/rtl-dark/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/artstyles/v-card3/rtl-dark/blog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/artstyles/v-card3/rtl-dark/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/artstyles/v-card3/rtl-dark/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/artstyles/v-card3/rtl-dark/one-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/artstyles/v-card3/rtl-dark/one-page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/artstyles/v-card3/rtl-dark/resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/artstyles/v-card3/rtl-dark/resume.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/artstyles/v-card3/rtl-dark/single-post.html" beforeDir="false" afterPath="$PROJECT_DIR$/artstyles/v-card3/rtl-dark/single-post.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/artstyles/v-card3/rtl-dark/works.html" beforeDir="false" afterPath="$PROJECT_DIR$/artstyles/v-card3/rtl-dark/works.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/artstyles/v-card3/rtl-dark/works_v2.html" beforeDir="false" afterPath="$PROJECT_DIR$/artstyles/v-card3/rtl-dark/works_v2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/artstyles/v-card3/rtl/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/artstyles/v-card3/rtl/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/artstyles/v-card3/rtl/background-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/artstyles/v-card3/rtl/background-2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/artstyles/v-card3/rtl/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/artstyles/v-card3/rtl/blog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/artstyles/v-card3/rtl/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/artstyles/v-card3/rtl/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/artstyles/v-card3/rtl/one-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/artstyles/v-card3/rtl/one-page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/artstyles/v-card3/rtl/resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/artstyles/v-card3/rtl/resume.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/artstyles/v-card3/rtl/single-post.html" beforeDir="false" afterPath="$PROJECT_DIR$/artstyles/v-card3/rtl/single-post.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/artstyles/v-card3/rtl/works.html" beforeDir="false" afterPath="$PROJECT_DIR$/artstyles/v-card3/rtl/works.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/artstyles/v-card3/rtl/works_v2.html" beforeDir="false" afterPath="$PROJECT_DIR$/artstyles/v-card3/rtl/works_v2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/artstyles/v-card3/single-post.html" beforeDir="false" afterPath="$PROJECT_DIR$/artstyles/v-card3/single-post.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/artstyles/v-card3/works.html" beforeDir="false" afterPath="$PROJECT_DIR$/artstyles/v-card3/works.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/artstyles/v-card3/works_v2.html" beforeDir="false" afterPath="$PROJECT_DIR$/artstyles/v-card3/works_v2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index-wcopy.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +35,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599812633610</updated>
-      <workItem from="1599812634838" duration="326000" />
+      <workItem from="1599812634838" duration="666000" />
     </task>
     <servers />
   </component>
